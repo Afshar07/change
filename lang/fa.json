@@ -1,0 +1,54 @@
+  {
+    "welcome": "خوش آمدید",
+    "layouts": {
+        "title": "صفحه خانه",
+        "panel": {
+          "sidebar": {
+            "dashboard": "خانه",
+            "price": "قیمت لحظه ای",
+            "market": "بازار",
+            "exchange": "تبدیلگر",
+            "wallet": "کیف پول"
+          },
+          "appbarMenu": {
+            "newUser": "جدید",
+            "profile": "پروفایل",
+            "logout": "خروج"
+          }
+        }
+    },
+    "common": {
+        "cancel": "لغو",
+        "search": "جستجو",
+        "theme": {
+            "dark": "تاریک",
+            "light": "روشن",
+            "system": "سیستم"
+        }
+    },
+    "pages": {
+        "title": {
+            "top": "تست تایتل صفحه"
+        },
+        "wallet": {
+            "options": {
+                "deposit": "واریز",
+                "withdraw": "برداشت",
+                "exchange": "تبدیل",
+                "dust": "موجودی های اندک"
+            },
+            "deposit": {
+                "recently-coin": "اخیر",
+                "useful-coin": "پر استفاده",
+                "coin-list": "لیست ارزها"
+            },
+            "history": {
+              "status": {
+                "OK": "واریز شده",
+                "cancelled": "لغو شده",
+                "finished": "تکمیل شده"
+              }
+            }
+        }
+    }
+  }

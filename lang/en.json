@@ -1,0 +1,46 @@
+{
+  "welcome": "Welcome",
+    "layouts": {
+        "title": "Home Page",
+        "panel": {
+          "sidebar": {
+            "dashboard": "Dashboard",
+            "price": "Price",
+            "market": "Market",
+            "exchange": "Exchange",
+            "wallet": "Wallet"
+          },
+          "appbarMenu": {
+            "newUser": "New",
+            "profile": "Profile",
+            "logout": "Logout"
+          }
+        }
+    },
+    "common": {
+        "cancel": "Cancel",
+        "search": "Search",
+        "theme": {
+            "dark": "Dark",
+            "light": "Light",
+            "system": "System"
+        }
+    },
+    "pages": {
+        "title": {
+            "top": "test page titles"
+        },
+        "wallet": {
+            "options": {
+                "deposit": "Deposit",
+                "withdraw": "Withdraw",
+                "dust": "Dust"
+            },
+            "deposit": {
+                "recently-coin": "Recently",
+                "useful-coin": "Useful",
+                "coin-list": "Coin Lists"
+            }
+        }
+    }
+}
